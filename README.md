@@ -4,8 +4,7 @@
 Hi! I'm **Naftalia Sophiana Purba**, a Mathematics student with a enthusiast for **Data Science, Machine Learning, and Data Analysis**. I love working with data, uncovering insights, and building intelligent systems that can solve real-world problems.
 
 # 🔧 Technologies & Tools
-- **Languages:** Python, R, SQL
-- **Frameworks & Libraries:** Pandas, NumPy, Scikit-learn
+- **Languages:** Python, R, 
 - **Tools & Platforms:** Jupyter Notebook, R
 
 # 🌱 What I’m Currently Learning
@@ -14,7 +13,7 @@ I'm always eager to expand my knowledge! Currently, I'm exploring:
 - 🤖 **Machine Learning & Deep Learning**
 
 # 🛠 My Latest Project
- **1. Breast Cancer Classification with Machine Learning Algorithms** - [Project Repository](https://github.com/your-github-username/project-repo)
+ **1. Breast Cancer Classification with Machine Learning Algorithms** - 
 
 - 📌 **Description:**  
   This project focuses on classifying breast cancer using various machine learning algorithms. It leverages different classification models to predict whether a tumor is malignant or benign based on given features.

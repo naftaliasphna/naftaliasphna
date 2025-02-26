@@ -5,18 +5,13 @@ Hi! I'm **Naftalia Sophiana Purba**, a Mathematics student with a enthusiast for
 
 # 🔧 Technologies & Tools
 - **Languages:** Python, R, SQL
-- **Frameworks & Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Jupyter Notebook, Git, Docker, AWS
+- **Frameworks & Libraries:** Pandas, NumPy, Scikit-learn
+- **Tools & Platforms:** Jupyter Notebook, R
 
 # 🌱 What I’m Currently Learning
 I'm always eager to expand my knowledge! Currently, I'm exploring:
 - 📊 **Advanced Data Analysis & Visualization**
 - 🤖 **Machine Learning & Deep Learning**
-- ☁️ **Cloud Computing for Data Science**
-
-# 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 # 🛠 My Latest Project
  **1. Breast Cancer Classification with Machine Learning Algorithms** - [Project Repository](https://github.com/your-github-username/project-repo)
@@ -39,8 +34,9 @@ I'm always eager to expand my knowledge! Currently, I'm exploring:
   - Visualization of key insights and model results  
 
 # 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
+- **LinkedIn:** (https://www.linkedin.com/in/naftalia-sophiana-purba-69b040352/)
 
-🚀 **Let's explore the world of data together!** Feel free to check out my repositories and reach out for collaboration. **Happy coding!** 😊
+# 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+🚀 **Let's explore the world of data together!** Feel free to check out my repositories and reach out for collaboration.

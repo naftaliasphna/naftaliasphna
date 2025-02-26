@@ -15,7 +15,7 @@ I'm always eager to expand my knowledge! Currently, I'm exploring:
 - 🤖 **Machine Learning & Deep Learning**
 ______________________________________________________________________________________________________________________________________________________________________________
 ## 🛠 My Latest Project
- **1. Breast Cancer Classification with Machine Learning Algorithms** - 
+ **1. Breast Cancer Classification with Machine Learning Algorithms** - (https://github.com/naftaliasphna/Classification-with-Machine-Learning-Models)
 
 - **Description:**  
  This project focuses on classifying breast cancer using machine learning algorithms, specifically **Support Vector Machine (SVM), Logistic Regression, Random Forest, KNN, and Naive Bayes**. It applies these models to predict whether a tumor is malignant or benign based on given features, evaluating their performance to determine the most effective approach.

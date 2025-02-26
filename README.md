@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
 # 🚀 About Me
-Hi! I'm **[Your Name]**, a Mathematics student with a enthusiast for **Data Science, Machine Learning, and Data Analysis**. I love working with data, uncovering insights, and building intelligent systems that can solve real-world problems.
+Hi! I'm **Naftalia Sophiana Purba**, a Mathematics student with a enthusiast for **Data Science, Machine Learning, and Data Analysis**. I love working with data, uncovering insights, and building intelligent systems that can solve real-world problems.
 
 # 🔧 Technologies & Tools
 - **Languages:** Python, R, SQL
